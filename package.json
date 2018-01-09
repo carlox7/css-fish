@@ -1,0 +1,11 @@
+{
+  "name": "css-fish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/carlox7/css-fish.git",
+  "author": "Carlo Santos <carlox7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.15.0"
+  }
+}
